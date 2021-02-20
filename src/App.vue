@@ -75,6 +75,7 @@ class="<i class="highlight">input-wrapper</i>   <i class="highlight">firstName-w
                 <p>P.S </p>
                 <p>გათვლილია, რომ კომპონენტს უნდა დაემატოს მარტივად სამართავი HTTP მოთხოვნები სერვერთან და კიდევ სხვა უამრავი დეტალი. ამიტომ ეს არის Work in Progress, თუმცა ამჟამინდელ მდგომარეობაშიც აკურატულად გადმოსცემს
                 ჩემი Vue-ს ცოდნას.</p>
+                <a  target="_blank" href="https://github.com/george572/form-validation/tree/code/">პროექტის Github მისამართი</a>
             </div>
         </div>
     </div>
@@ -194,6 +195,9 @@ import smartField from "@/components/Smart-Field";
         }
         img {
             max-width: 100%;
+        }
+        a {
+            color: #e25d72;
         }
     }
     pre {
